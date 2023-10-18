@@ -33,7 +33,7 @@ Ludus is a versatile binary that incorporates a wide array of functions designed
 
 # References
 - OALabs Community
-- @GodLy
+- @JunkCod3
 - @future_wizard
 - https://github.com/zyantific/zydis
 - https://github.com/HackOvert/AntiDBG
